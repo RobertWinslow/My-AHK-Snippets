@@ -1,6 +1,8 @@
 # My AHK Snippets
 
-Here are snippets of AutoHotKey code I have running on startup:
+Here are snippets of AutoHotKey code I *used to* have running on startup:
+
+*Edit: The functions I previously used AHK for can now be done using [Microsoft Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/). Combining diacritics are accessed in Powertoys using the `.` key.*
 
 ## Volume Control and Media pausing.
 
